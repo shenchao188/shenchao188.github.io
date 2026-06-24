@@ -28,6 +28,30 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy Under Review</div><img src='images/workload_resahpe.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Workload reshaping and waste heat valorization for token cost reduction in large model datacenters: A two stage forecasting and optimization framework
+
+Junyan Shao, **Chao Shen**, Zihan Guo, Yujia Huang, Mingyang Sun
+
+*Applied Energy Under Review*, 2026.
+- The first work links token-level workload reshaping with waste heat valorization, opening a new optimization pathway for cost-efficient large-model datacenters.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Under Review</div><img src='images/optargus.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OptArgus: A Multi-Agent System to Detect Hallucinations in LLM-based Optimization Modeling](https://arxiv.org/abs/2605.11738)
+
+Zhong Li, Zihan Guo, Xiaohan Lu, Juntao Wang, Jie Song, **Chao Shen**, Jiageng Wu, Mingyang Sun
+
+*NeurIPS 2026 Under Review*, 2026.
+- OptArgus is among the first systems to formalize optimization-modeling hallucination detection, using specialist agents to catch structural errors missed by objective-value checks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2026</div><img src='images/Universal_transient_stability.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,20 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Chao Shen**, Ke Zuo, Mingyang Sun
 
-*Applied Energy*, 2026. (Top, SCI Q1, IF 12.2)
-- Proposes Uni-TSA, a pre-trained generative Transformer framework for universal transient stability dynamics prediction across operating conditions, faults, and power systems.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/optargus.png' alt="paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OptArgus: A Multi-Agent System to Detect Hallucinations in LLM-based Optimization Modeling](https://arxiv.org/abs/2605.11738)
-
-Zhong Li, Zihan Guo, Xiaohan Lu, Juntao Wang, Jie Song, **Chao Shen**, Jiageng Wu, Mingyang Sun
-
-*arXiv preprint*, 2026.
-- Detects optimization-modeling hallucinations by routing artifacts to specialist LLM auditors and checking structural consistency across problem descriptions, symbolic models, and solver code.
+*Applied Energy*, 2026. (Power/Energy Top, SCI Q1, IF 12.2)
+- Uni-TSA presents a first universal transient-stability prediction framework that can generalize across operating conditions, fault scenarios, and even unseen power systems.
 </div>
 </div>
 
@@ -59,8 +71,8 @@ Zhong Li, Zihan Guo, Xiaohan Lu, Juntao Wang, Jie Song, **Chao Shen**, Jiageng W
 
 Zongyan Zhang, **Chao Shen**, Xu Wan, Jie Song, Mingyang Sun
 
-*Applied Energy*, 2026. (Top, SCI Q1, IF 12.2)
-- Integrates LLM-based domain reasoning with safe reinforcement learning to improve topology reconfiguration under operational voltage and thermal constraints.
+*Applied Energy*, 2026. (Power/Energy Top, SCI Q1, IF 12.2)
+- This work pioneers an LLM-guided safe RL paradigm for topology reconfiguration, injecting domain reasoning into safety-critical switching decisions.
 </div>
 </div>
 
@@ -72,7 +84,7 @@ Zongyan Zhang, **Chao Shen**, Xu Wan, Jie Song, Mingyang Sun
 **Chao Shen**, Zihan Guo, Xu Wan, Zhen Yang, Yifan Zhang, Wen Huang, Jie Song, Zongyang Zhang, Mingyang Sun
 
 *International Conference on Machine Learning (ICML)*, 2026. (CCF-A)
-- Introduces ProOPF-D and ProOPF-B, a dataset and benchmark for evaluating LLMs on professional-grade optimal power flow modeling from natural-language requirements.
+- ProOPF introduces the first professional-grade OPF benchmark for LLMs, moving text-to-optimization evaluation from toy tasks to realistic power-system modeling.
 </div>
 </div>
 
@@ -83,8 +95,8 @@ Zongyan Zhang, **Chao Shen**, Xu Wan, Jie Song, Mingyang Sun
 
 **Chao Shen**, Zihan Guo, Ke Zuo, Wen Huang, Mingyang Sun
 
-*IEEE Transactions on Industrial Informatics*, 2026. (Top, SCI Q1, IF 9.8)
-- Uses LLM reasoning and code synthesis to discover power system dynamic equations while enforcing algebraic constraints through iterative differential and algebraic equation loops.
+*IEEE Transactions on Industrial Informatics*, 2026. (Automation/AI Top, SCI Q1, IF 9.8)
+- LLM-DMD is an early attempt to use LLM agents for power-system dynamic model discovery, jointly searching differential equations and algebraic constraints.
 </div>
 </div>
 
@@ -95,8 +107,8 @@ Zongyan Zhang, **Chao Shen**, Xu Wan, Jie Song, Mingyang Sun
 
 Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 
-*IEEE Transactions on Power Systems*, 2025. (Top, SCI Q2, IF 8.7)
-- Develops a data-driven transient security-constrained optimal power flow method with probabilistic robustness verification for transient security requirements.
+*IEEE Transactions on Power Systems*, 2025. (Power/Energy Top, SCI Q2, IF 8.7)
+- This study advances data-driven TSCOPF by adding probabilistic robustness verification, making learned security constraints more reliable under uncertainty.
 </div>
 </div>
 
@@ -107,8 +119,8 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 
 **Chao Shen**, Ke Zuo, Mingyang Sun
 
-*IEEE Transactions on Industrial Informatics*, 2025. (Top, SCI Q1, IF 9.8)
-- Proposes a physics-augmented auxiliary learning framework for transient stability assessment that improves accuracy and physical consistency via auxiliary electrical velocity prediction.
+*IEEE Transactions on Industrial Informatics*, 2025. (Automation/AI Top, SCI Q1, IF 9.8)
+- PA-AL introduces physics-augmented auxiliary learning for TSA, using electrical velocity as a new auxiliary signal to improve both accuracy and physical consistency.
 </div>
 </div>
 
@@ -119,8 +131,8 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 
 **Chao Shen**, Ke Zuo, Mingyang Sun
 
-*IEEE Transactions on Power Systems*, 2025. (Top, SCI Q2, IF 8.7)
-- Introduces a physics-following neural network for online dynamic security assessment, combining supervised initialization with dynamics-guided local learning.
+*IEEE Transactions on Power Systems*, 2025. (Power/Energy Top, SCI Q2, IF 8.7)
+- PFNN moves beyond generic physics-informed learning by explicitly following power-system dynamics for online security assessment.
 </div>
 </div>
 
@@ -132,7 +144,7 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 **Chao Shen**, Fengzhou Sun, Hao Chen, Yi Lin, Chuangxin Guo, Mingyang Sun
 
 *China Automation Congress (CAC)*, 2024.
-- Uses component-wise LSTM models with group lasso regularization to identify Granger-causal relationships for power system carbon intensity attribution.
+- Carbon-NeuGC provides a neural Granger-causality framework for attributing power-system carbon intensity, enabling more interpretable carbon-flow analysis.
 </div>
 </div>
 
@@ -140,9 +152,11 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+
+- *Sep 2022 - Present*, **Zhejiang University**, College of Control Science and Engineering. Ph.D. Candidate in Control Science and Engineering (GPA: 3.90/4.0). Supervisors: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and [Peng Cheng](https://person.zju.edu.cn/cp).
+- *Jul 2024 - Present*, **Peking University**, College of Engineering. Visiting Ph.D. Student at the Intelligent DEcision-mAking for Low Carbon Energy Systems Laboratory ([IDEAL Lab](https://www.ideallab-smy.com/)). Supervisor: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html).
+- *Sep 2018 - Jun 2022*, **Huazhong University of Science and Technology**, School of Civil and Hydraulic Engineering. B.Eng. in Hydraulic and Hydropower Engineering (GPA: 3.96/4.0). Supervisor: [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm).
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
