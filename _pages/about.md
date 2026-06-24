@@ -154,9 +154,16 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 
 # 📖 Education
 
-- *Sep 2022 - Present*, **Zhejiang University**, College of Control Science and Engineering. Ph.D. Candidate in Control Science and Engineering (GPA: 3.90/4.0). Supervisors: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and [Peng Cheng](https://person.zju.edu.cn/cp).
-- *Jul 2024 - Present*, **Peking University**, College of Engineering. Visiting Ph.D. Student at the Intelligent DEcision-mAking for Low Carbon Energy Systems Laboratory ([IDEAL Lab](https://www.ideallab-smy.com/)). Supervisor: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html).
-- *Sep 2018 - Jun 2022*, **Huazhong University of Science and Technology**, School of Civil and Hydraulic Engineering. B.Eng. in Hydraulic and Hydropower Engineering (GPA: 3.96/4.0). Supervisor: [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm).
+- *Sep 2022 - Present*, **Zhejiang University**, College of Control Science and Engineering. **Ph.D. Candidate in Control Science and Engineering** (GPA: 3.90/4.0). Supervisors: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and [Peng Cheng](https://person.zju.edu.cn/cp).
+- *Jul 2024 - Present*, **Peking University**, College of Engineering. **Visiting Ph.D. Student at the Intelligent DEcision-mAking for Low Carbon Energy Systems Laboratory** ([IDEAL Lab](https://www.ideallab-smy.com/)). Supervisor: [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html).
+- *Sep 2018 - Jun 2022*, **Huazhong University of Science and Technology**, School of Civil and Hydraulic Engineering. **B.Eng. in Hydraulic and Hydropower Engineering** (GPA: 3.96/4.0). Supervisor: [Hui Qin](https://civil.hust.edu.cn/info/1312/9985.htm).
+
+# 🤝 Services
+- Invited reviewer for *IEEE Transactions on Power Systems*.
+- Invited reviewer for *IEEE Transactions on Smart Grid*.
+- Invited reviewer for *Applied Energy*.
+- Invited reviewer for *International Journal of Electrical Power & Energy Systems*.
+- Invited reviewer for *Electric Power Systems Research*.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
