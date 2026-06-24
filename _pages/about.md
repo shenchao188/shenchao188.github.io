@@ -28,19 +28,125 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2026</div><img src='images/Universal_transient_stability.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Universal transient stability analysis: A pre-trained generative transformer-enabled power system dynamics prediction framework](https://scholar.google.com/scholar?q=Universal+transient+stability+analysis+A+pre-trained+generative+transformer-enabled+power+system+dynamics+prediction+framework)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chao Shen**, Ke Zuo, Mingyang Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Applied Energy*, 419, 128028, 2026.
+- Proposes Uni-TSA, a pre-trained generative Transformer framework for universal transient stability dynamics prediction across operating conditions, faults, and power systems.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OptArgus: A Multi-Agent System to Detect Hallucinations in LLM-based Optimization Modeling](https://scholar.google.com/scholar?q=OptArgus+A+Multi-Agent+System+to+Detect+Hallucinations+in+LLM-based+Optimization+Modeling)
+
+Zhong Li, Zihan Guo, Xiaohan Lu, Juntao Wang, Jie Song, **Chao Shen**, Jiageng Wu, Mingyang Sun
+
+*arXiv preprint arXiv:2605.11738*, 2026.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-Guided Safe Reinforcement Learning for Energy System Topology Reconfiguration](https://scholar.google.com/scholar?q=LLM-Guided+Safe+Reinforcement+Learning+for+Energy+System+Topology+Reconfiguration)
+
+Zongyan Zhang, **Chao Shen**, Xu Wan, Jie Song, Mingyang Sun
+
+*Applied Energy*, 2026.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://scholar.google.com/scholar?q=ProOPF+Benchmarking+and+Improving+LLMs+for+Professional-Grade+Power+Systems+Optimization+Modeling)
+
+**Chao Shen**, Zihan Guo, Xu Wan, Zhen Yang, Yifan Zhang, Wen Huang, Jie Song, Zongyang Zhang, Mingyang Sun
+
+*International Conference on Machine Learning (ICML 2026)*, 2026.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-DMD: Large Language Model-based Power System Dynamic Model Discovery](https://scholar.google.com/scholar?q=LLM-DMD+Large+Language+Model-based+Power+System+Dynamic+Model+Discovery)
+
+**Chao Shen**, Zihan Guo, Ke Zuo, Wen Huang, Mingyang Sun
+
+*IEEE Transactions on Industrial Informatics*, 2026.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Universal Transient Stability Analysis: A Large Language Model-Enabled Dynamics Prediction Framework](https://scholar.google.com/scholar?q=Universal+Transient+Stability+Analysis+A+Large+Language+Model-Enabled+Dynamics+Prediction+Framework)
+
+**Chao Shen**, Ke Zuo, Mingyang Sun
+
+*Applied Energy*, 2025.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPWRS 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Probabilistic Robustness Verified Data-Driven Transient Security-Constrained Optimal Power Flow](https://scholar.google.com/scholar?q=Probabilistic+Robustness+Verified+Data-Driven+Transient+Security-Constrained+Optimal+Power+Flow)
+
+Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
+
+*IEEE Transactions on Power Systems*, 2025.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-augmented auxiliary learning for power system transient stability assessment](https://scholar.google.com/scholar?q=Physics-augmented+auxiliary+learning+for+power+system+transient+stability+assessment)
+
+**Chao Shen**, Ke Zuo, Mingyang Sun
+
+*IEEE Transactions on Industrial Informatics*, 2025.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPWRS 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-following neural network for online dynamic security assessment](https://scholar.google.com/scholar?q=Physics-following+neural+network+for+online+dynamic+security+assessment)
+
+**Chao Shen**, Ke Zuo, Mingyang Sun
+
+*IEEE Transactions on Power Systems*, 2025.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2024</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Carbon-NeuGC: Neural Granger Causality Based Attribution Analysis of Power System Carbon Intensity](https://scholar.google.com/scholar?q=Carbon-NeuGC+Neural+Granger+Causality+Based+Attribution+Analysis+of+Power+System+Carbon+Intensity)
+
+**Chao Shen**, Fengzhou Sun, Hao Chen, Yi Lin, Chuangxin Guo, Mingyang Sun
+
+*2024 China Automation Congress (CAC)*, 5993-5998, 2024.
+- Placeholder figure and summary to be updated.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
