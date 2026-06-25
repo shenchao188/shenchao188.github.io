@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chao Shen"
-  avatar           : "images/chao shen.jpg"
+  avatar           : "images/chao-shen.png"
   bio              : "Zhejiang University, Control Science and Engineering"
   location         : "Hangzhou, China"
   employer         :
