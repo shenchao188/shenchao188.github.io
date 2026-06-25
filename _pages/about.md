@@ -17,14 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. candidate in Control Science and Engineering at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). I am advised by Prof. [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp). I am also a visiting Ph.D. student at the [IDEAL Lab](https://www.ideallab-smy.com/), [Peking University](https://english.pku.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in the integration of artificial intelligence with power and energy systems, with a focus on large language models, reinforcement learning, power system dynamic security analysis, optimal topology reconfiguration, and optimal power flow. I am currently working on foundation-model-based methods for power system modeling, simulation, optimization, and decision-making, as well as domain-specific benchmark construction and evaluation protocols for reliable AI in power systems.
+
+My research aims to contribute to reliable, interpretable, and scalable intelligent systems for future low-carbon power and energy systems.
+
+For more information, please take a look at my [Google Scholar](https://scholar.google.com/citations?user=mQYrZ4gAAAAJ&hl=zh-CN) and [GitHub](https://github.com/shenchao188).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06*: &nbsp;🎉🎉 Our paper [**Universal Transient Stability Analysis**](https://doi.org/10.1016/j.apenergy.2026.128028) was published in *Applied Energy*.
+- *2026.06*: &nbsp;🎉🎉 Our paper [**LLM-guided safe reinforcement learning**](https://arxiv.org/abs/2603.14018) for energy system topology reconfiguration was accepted by *Applied Energy*.
+- *2026.05*: &nbsp;🎉🎉 Our work [**ProOPF**](https://arxiv.org/abs/2602.03070) was accepted by *ICML 2026*.
+- *2026.05*: &nbsp;🎉🎉 Our paper [**LLM-DMD**](https://arxiv.org/abs/2601.05632) was accepted by *IEEE Transactions on Industrial Informatics*.
+- *2026.02*: &nbsp;🎉🎉 Our paper [**Physics-following neural networks**](https://doi.org/10.1109/TPWRS.2025.3556813) was recognized by Web of Science as an ESI Highly Cited Paper (Engineering).
+- *2025.09*: &nbsp;🎉🎉 Our paper on [**probabilistic robustness verified TSCOPF**](https://doi.org/10.1109/TPWRS.2025.3608814) was accepted by *IEEE Transactions on Power Systems*.
+- *2025.06*: &nbsp;🎉🎉 Our paper on [**physics-augmented auxiliary learning**](https://doi.org/10.1109/TII.2025.3567400) for transient stability assessment was accepted by *IEEE Transactions on Industrial Informatics*.
+- *2025.04*: &nbsp;🎉🎉 Our paper on [**physics-following neural networks**](https://doi.org/10.1109/TPWRS.2025.3556813) for online dynamic security assessment was accepted by *IEEE Transactions on Power Systems*.
 
 # 📝 Publications 
 
@@ -149,8 +159,11 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: [**PFNN**](https://doi.org/10.1109/TPWRS.2025.3556813) was recognized by Web of Science as an ESI Highly Cited Paper (Engineering).
+- *2025.11*: Outstanding Graduate Student, Zhejiang University.
+- *2021.10*: National Scholarship.
+- *2021.04*: Finalist, Contemporary Undergraduate Mathematical Contest in Modeling (Top 2%).
+- *2020.01*: First Prize, China Undergraduate Mathematical Contest in Mathematics (Top 8%).
 
 # 📖 Education
 
@@ -165,9 +178,9 @@ Ke Zuo, **Chao Shen**, Peng Cheng, Jie Song, Mingyang Sun
 - Invited reviewer for *International Journal of Electrical Power & Energy Systems*.
 - Invited reviewer for *Electric Power Systems Research*.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
