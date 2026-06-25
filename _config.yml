@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chao Shen"
-description              : "Personal academic homepage"
+description              : "Reliable AI for low-carbon power and energy systems"
 repository               : "shenchao188/shenchao188.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chao Shen"
-  avatar           : "images/chao-shen.jpg"
+  avatar           : "images/chao shen.jpg"
   bio              : "Zhejiang University, Control Science and Engineering"
   location         : "Hangzhou, China"
   employer         :
