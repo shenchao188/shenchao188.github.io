@@ -41,7 +41,7 @@ For more information, please take a look at my [Google Scholar](https://scholar.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy Under Review</div><img src='images/workload_resahpe.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Workload reshaping and waste heat valorization for token cost reduction in large model datacenters: A two stage forecasting and optimization framework
+[Workload reshaping and waste heat valorization for token cost reduction in large model datacenters: A two stage forecasting and optimization framework](https://shenchao188.github.io/)
 
 Junyan Shao, **Chao Shen**, Zihan Guo, Yujia Huang, Mingyang Sun
 
