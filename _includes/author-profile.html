@@ -117,9 +117,12 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
-    </ul>
-      <div class="author__urls_sm">
+	{% endif %}
+	    </ul>
+      <div class="visitor-map" style="margin-top: 1em; text-align: center;">
+        <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=8mh9Ye0JUvnA80wCfvqV-vzNS3hA9ghlZ7bD4JnpEqo&cl=ffffff&w=a"></script>
+      </div>
+	      <div class="author__urls_sm">
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
