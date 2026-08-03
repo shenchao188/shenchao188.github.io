@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a Ph.D. candidate in Control Science and Engineering at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). I am advised by Prof. [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp). I am also a visiting Ph.D. student at the [IDEAL Lab](https://www.ideallab-smy.com/), [Peking University](https://english.pku.edu.cn/).
 
-My research interests lie in the integration of artificial intelligence with power and energy systems, with a focus on large language models, reinforcement learning, power system dynamic security analysis, optimal topology reconfiguration, and optimal power flow. I am currently working on foundation-model-based methods for power system modeling, simulation, optimization, and decision-making, as well as domain-specific benchmark construction and evaluation protocols for reliable AI in power systems.
+My research focuses on large language model agents, machine-learning-based modelling, and intelligent optimisation and decision-making for complex industrial systems. Using power and energy systems as a high-complexity testbed, I develop domain-specific LLM-agent frameworks, professional-grade code-generation and optimisation-modelling benchmarks, time-series foundation models, and reliable decision-making methods under operational constraints.
 
-My research aims to contribute to reliable, interpretable, and scalable intelligent systems for future low-carbon power and energy systems.
+I am particularly interested in building closed-loop research workflows that connect model generation, executable evaluation, robust prediction, and optimisation. My goal is to develop reliable, interpretable, and scalable AI systems that translate domain knowledge and data into verifiable decisions for real-world complex systems.
 
 For more information, please take a look at my [Google Scholar](https://scholar.google.com/citations?user=mQYrZ4gAAAAJ&hl=zh-CN) and [GitHub](https://github.com/shenchao188).
 
