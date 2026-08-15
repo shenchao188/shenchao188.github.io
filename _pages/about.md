@@ -27,7 +27,6 @@ For more information, please take a look at my [Google Scholar](https://scholar.
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper [**AIDC Microgrid Vulnerability Assessment**](https://arxiv.org/abs/2608.10645) was released on arXiv.
 - *2026.06*: &nbsp;🎉🎉 Our paper [**Universal Transient Stability Analysis**](https://doi.org/10.1016/j.apenergy.2026.128028) was published in *Applied Energy*.
 - *2026.06*: &nbsp;🎉🎉 Our paper [**LLM-guided safe reinforcement learning**](https://arxiv.org/abs/2603.14018) for energy system topology reconfiguration was accepted by *Applied Energy*.
 - *2026.05*: &nbsp;🎉🎉 Our work [**ProOPF**](https://arxiv.org/abs/2602.03070) was accepted by *ICML 2026*.
