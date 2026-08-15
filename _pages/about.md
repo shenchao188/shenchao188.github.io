@@ -27,6 +27,7 @@ For more information, please take a look at my [Google Scholar](https://scholar.
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Our paper [**AIDC Microgrid Vulnerability Assessment**](https://arxiv.org/abs/2608.10645) was released on arXiv.
 - *2026.06*: &nbsp;🎉🎉 Our paper [**Universal Transient Stability Analysis**](https://doi.org/10.1016/j.apenergy.2026.128028) was published in *Applied Energy*.
 - *2026.06*: &nbsp;🎉🎉 Our paper [**LLM-guided safe reinforcement learning**](https://arxiv.org/abs/2603.14018) for energy system topology reconfiguration was accepted by *Applied Energy*.
 - *2026.05*: &nbsp;🎉🎉 Our work [**ProOPF**](https://arxiv.org/abs/2602.03070) was accepted by *ICML 2026*.
@@ -37,6 +38,18 @@ For more information, please take a look at my [Google Scholar](https://scholar.
 - *2025.04*: &nbsp;🎉🎉 Our paper on [**physics-following neural networks**](https://doi.org/10.1109/TPWRS.2025.3556813) for online dynamic security assessment was accepted by *IEEE Transactions on Power Systems*.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/AIDC attack.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIDC Microgrid Vulnerability Assessment Under Computing-Power Coordinated Attacks](https://arxiv.org/abs/2608.10645)
+
+Ze Yu, Hongwei Zhen, **Chao Shen**, Mingyang Sun
+
+*arXiv preprint*, 2026.
+- This work explores computing-power coordinated attacks against low-carbon AIDC microgrids, jointly assessing inverter control tampering and AI-induced demand manipulation under renewable and demand-response uncertainty.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy Under Review</div><img src='images/workload_resahpe.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
