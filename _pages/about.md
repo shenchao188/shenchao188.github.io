@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. candidate in Control Science and Engineering at the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). I am advised by Prof. [Mingyang Sun](https://www.coe.pku.edu.cn/teaching/yongforeign/12884.html) and Prof. [Peng Cheng](https://person.zju.edu.cn/cp). I am also a visiting Ph.D. student at the [IDEAL Lab](https://www.ideallab-smy.com/), [Peking University](https://english.pku.edu.cn/).
